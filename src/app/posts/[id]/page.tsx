@@ -98,6 +98,12 @@ const posts: Record<string, Post> = {
       <p class="mt-2">Think of HTML as the bones of a body. Without it, there would be no structure to hold everything in place. Even with advanced technologies, HTML remains the backbone of every project. Whether designing a personal portfolio or working on a professional web application, it all begins with understanding HTML.</p>
 
       <div class="mb-4 border-b-2 border-gray-700 mt-4"></div>
+
+      <p class="mt-2">Please check more details in url address.</p>
+      <p class="mt-2">HTML: https://html.spec.whatwg.org</p>
+      <p class="mt-2">(This is the official specification maintained by the WHATWG.)</p>
+
+      <div class="mb-4 border-b-2 border-gray-700 mt-4"></div>
     `,
   },
   '2': {
@@ -170,6 +176,12 @@ const posts: Record<string, Post> = {
 
     <div class="mb-4 border-b-2 border-gray-700 mt-4"></div>
 
+    <p class="mt-2">Please check more details in url address.</p>
+      <p class="mt-2">CSS: https://www.w3.org/Style/CSS/</p>
+      <p class="mt-2">(This is maintained by the W3C, the official standards body for CSS.)</p>
+
+      <div class="mb-4 border-b-2 border-gray-700 mt-4"></div>
+
     `
   },
   '3': {
@@ -187,10 +199,12 @@ const posts: Record<string, Post> = {
     <p class="mt-2">Embracing TypeScript is not just a choice; it is a necessary step in our journey as developers in the new era of programming. Moving from JavaScript to TypeScript marks a significant leap forward, empowering us to write more reliable and maintainable code that aligns with the needs of modern software development.</p>
 
     <div class="mb-4 border-b-2 border-gray-700 mt-4"></div>
-    <p class="mt-2"></p>
-    <p class="mt-2"></p>
-    <p class="mt-2"></p>
-    <p class="mt-2"></p>
+    
+    <p class="mt-2">Please check more details in url address.</p>
+    <p class="mt-2">TypeScript: https://www.typescriptlang.org</p>
+    <p class="mt-2">(The official website for TypeScript, offering documentation, tutorials, and resources.)</p>
+
+      <div class="mb-4 border-b-2 border-gray-700 mt-4"></div>
     
     `,
   },
@@ -207,6 +221,12 @@ const posts: Record<string, Post> = {
         <p class="mt-2">Embracing Next.js as part of our learning journey is crucial. It equips us with the skills needed to build modern web applications and provides a deeper understanding of how to optimize web performance, scalability, and SEO—all of which are essential in today's digital landscape.</p>
 
         <div class="mb-4 border-b-2 border-gray-700 mt-4"></div>
+
+        <p class="mt-2">Please check more details in url address.</p>
+        <p class="mt-2">Next.js: https://nextjs.org</p>
+        <p class="mt-2">(The official website for Next.js, a React framework for building modern web applications.)</p>
+
+      <div class="mb-4 border-b-2 border-gray-700 mt-4"></div>
         `,
   },
   '5': {
@@ -256,6 +276,12 @@ const posts: Record<string, Post> = {
         <p class="mt-2">For GIAIC students, learning Tailwind CSS is an essential step in our web development journey. It simplifies the process of styling websites and applications, allowing us to build beautiful, responsive designs with minimal effort. By mastering Tailwind, we can create fast and scalable web applications while focusing on the core functionality rather than worrying about intricate CSS details. Tailwind CSS empowers us to be more efficient, more productive, and more creative as we move forward in our development careers.</p>
 
         <div class="mb-4 border-b-2 border-gray-700 mt-4"></div>
+
+        <p class="mt-2">Please check more details in url address.</p>
+        <p class="mt-2">Tailwind CSS: https://tailwindcss.com</p>
+        <p class="mt-2">(The official website for Tailwind CSS, a utility-first CSS framework.)</p>
+
+      <div class="mb-4 border-b-2 border-gray-700 mt-4"></div>
         
         `,
   },
